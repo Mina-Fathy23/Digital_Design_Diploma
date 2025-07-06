@@ -23,3 +23,7 @@ Implementation of a 1-bit Arithmetic Logic Unit (ALU) in Verilog using condition
 | 00      | AND        | a & b                |  
 | 01      | OR         | a | b                 |  
 | 10      | ADD        | a + b + cin          |   
+
+---
+
+![Design Schematic]()
