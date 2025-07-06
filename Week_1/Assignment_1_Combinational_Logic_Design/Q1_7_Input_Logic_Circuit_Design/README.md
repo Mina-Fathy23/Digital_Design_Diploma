@@ -22,5 +22,5 @@ Implementation of a custom logic circuit with 7 inputs and 2 outputs using Veril
 3. **XNOR1**: XNOR gate  
 
 ### Schematic Representation:  
-![Logic Circuit Schematic](circuit_schematic.png)  
+![Logic Circuit Schematic]([circuit_schematic.png](https://github.com/Mina-Fathy23/Digital_Design_Diploma/blob/53f4c624e89e9e28f4f74823afca8e6e4fc56ff2/Week_1/Assignment_1_Combinational_Logic_Design/Q1_7_Input_Logic_Circuit_Design/image.png))  
 *(Diagram shows signal flow: Inputs → Logic Gates → MUX → Outputs)*  
