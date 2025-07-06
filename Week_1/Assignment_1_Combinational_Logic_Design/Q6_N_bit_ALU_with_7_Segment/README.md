@@ -24,3 +24,7 @@ Implementation of a 4-bit ALU connected to a 7-segment display for hexadecimal o
 | 01     | SUB        | Bitwise OR           |
 | 10     | AND        | A - B                |
 | 11     | XOR        | Bitwise XOR          |
+
+---
+
+![Design Schematic]
