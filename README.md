@@ -1,4 +1,4 @@
-# 💡 Digital Design Using Verilog and FPGA Flow (Vivado-Based)
+# 💻 Digital Design Using Verilog and FPGA Flow (Vivado-Based)
 
 Welcome to the official repository for the **6-week diploma** on **Digital Design Using Verilog and FPGA Flow**. This course offers a hands-on journey from classical digital logic principles to modern FPGA-based prototyping using Verilog and Xilinx Vivado.
 
