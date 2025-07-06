@@ -26,4 +26,4 @@ Implementation of a 1-bit Arithmetic Logic Unit (ALU) in Verilog using condition
 
 ---
 
-![Design Schematic]()
+![Design Schematic](https://github.com/Mina-Fathy23/Digital_Design_Diploma/blob/4424926229489cd080328ed1fc9ed08ca99507fa/Week_1/Extra_Assignment/Q5_1bit_ALU/Screenshot%202025-07-06%20202641.jpg)
