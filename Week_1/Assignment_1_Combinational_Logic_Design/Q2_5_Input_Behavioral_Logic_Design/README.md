@@ -27,4 +27,4 @@ Implementation of a 5-input, 2-output digital circuit using behavioral Verilog/V
 - Conditional output selection based on 'Sel'  
 - Complementary output generation  
 
-![Behavioral Logic Schematic](behavioral_schematic.png)  
+![Behavioral Logic Schematic](https://github.com/Mina-Fathy23/Digital_Design_Diploma/blob/dac13c29742f8219390ea7486cf24077df28fedf/Week_1/Assignment_1_Combinational_Logic_Design/Q2_5_Input_Behavioral_Logic_Design/Screenshot%202025-07-06%20195540.jpg)
