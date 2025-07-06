@@ -9,13 +9,13 @@ Welcome to the official repository for the **6-week diploma** on **Digital Desig
 ### 📘 Week 1: Foundations of Digital Logic
 - Classical digital design flow: truth tables, K-maps, Boolean algebra, logic equivalence.
 - Transition to modern design with an overview of HDLs and Verilog fundamentals.
+- Verilog essentials for modeling combinational logic.
 
 ### ⚙️ Week 2: Combinational Logic Design
-- Verilog essentials for modeling combinational logic.
 - Implementation and verification of key combinational circuits with testbenches.
+- Sequential design basics using Verilog (flip-flops, counters, etc.).
 
 ### 🔁 Week 3: Sequential Logic & FSMs
-- Sequential design basics using Verilog (flip-flops, counters, etc.).
 - FSM design (Moore/Mealy) and modeling in Verilog.
 
 ### 💾 Week 4: Memory & Communication Concepts
