@@ -16,8 +16,8 @@ Welcome to the official repository for the **6-week diploma** on **Digital Desig
 - Introduction to Sequential design basics using Verilog 
 
 ### 🔁 Week 3: Sequential Logic & FSMs
--Implementation of Sequential design basics using Verilog (flip-flops, counters, shift-registers, etc.).
--Implementation and verification of key sequential circuits with testbenches and QuestaLint.
+- Implementation of Sequential design basics using Verilog (flip-flops, counters, shift-registers, etc.).
+- Implementation and verification of key sequential circuits with testbenches and QuestaLint.
 
 ### 💾 Week 4: Memory & Communication Concepts
 - FSM design (Moore/Mealy) and modeling in Verilog.
