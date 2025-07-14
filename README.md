@@ -1,6 +1,6 @@
 # 💻 Digital Design Using Verilog and FPGA Flow (Vivado-Based)
 
-Welcome to the official repository for the **6-week diploma** on **Digital Design Using Verilog and FPGA Flow**. This course offers a hands-on journey from classical digital logic principles to modern FPGA-based prototyping using Verilog and Xilinx Vivado.
+Welcome to the official repository for the **6-week diploma** on **Digital Design Using Verilog and FPGA Flow**. This course offers a hands-on journey from classical digital logic principles to modern FPGA-based prototyping using Verilog, Xilinx Vivado, and QuestaLint.
 
 ---
 
@@ -13,12 +13,14 @@ Welcome to the official repository for the **6-week diploma** on **Digital Desig
 
 ### ⚙️ Week 2: Combinational Logic Design
 - Implementation and verification of key combinational circuits with testbenches.
-- Sequential design basics using Verilog (flip-flops, counters, etc.).
+- Introduction to Sequential design basics using Verilog 
 
 ### 🔁 Week 3: Sequential Logic & FSMs
-- FSM design (Moore/Mealy) and modeling in Verilog.
+-Implementation of Sequential design basics using Verilog (flip-flops, counters, shift-registers, etc.).
+-Implementation and verification of key sequential circuits with testbenches and QuestaLint.
 
 ### 💾 Week 4: Memory & Communication Concepts
+- FSM design (Moore/Mealy) and modeling in Verilog.
 - Memory types, modeling in Verilog, and implementation.
 - Overview of communication protocols and their foundational concepts.
 
