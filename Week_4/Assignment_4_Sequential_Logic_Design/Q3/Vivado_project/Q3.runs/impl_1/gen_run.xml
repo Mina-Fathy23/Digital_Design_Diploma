@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35ticpg236-1L" LaunchTime="1753275639">
+  <File Type="OPT-HWDEF" Name="TDM.hwdef"/>
+  <File Type="ROUTE-BUS-SKEW" Name="TDM_bus_skew_routed.rpt"/>
+  <File Type="PA-DCP" Name="TDM.dcp"/>
+  <File Type="BITSTR-BMM" Name="TDM_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="TDM_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="TDM_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="TDM_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="TDM.tcl"/>
+  <File Type="OPT-TIMING" Name="TDM_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="TDM_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="TDM_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="TDM_reports.tcl"/>
+  <File Type="OPT-DRC" Name="TDM_drc_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="TDM_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="TDM_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="TDM_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="TDM_placed.dcp"/>
+  <File Type="PLACE-IO" Name="TDM_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="TDM_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="TDM_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="TDM_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="TDM_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="TDM_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="TDM_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="TDM_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="TDM_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="TDM.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="TDM_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="TDM_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="TDM_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="TDM.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="TDM_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="TDM_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="TDM_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="TDM_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="TDM_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="TDM_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="TDM.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="TDM_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="TDM.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="TDM_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="TDM_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="TDM.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="TDM_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="TDM_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="TDM_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="TDM_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="TDM_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="TDM_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="TDM_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="TDM_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="TDM_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="TDM_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="TDM_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="TDM_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="TDM_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="TDM_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="TDM_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="TDM_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="TDM_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="TDM_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="TDM.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="TDM_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="TDM.rbt"/>
+  <File Type="BITSTR-NKY" Name="TDM.nky"/>
+  <File Type="BG-BGN" Name="TDM.bgn"/>
+  <File Type="BG-DRC" Name="TDM.drc"/>
+  <File Type="RDI-RDI" Name="TDM.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../Q3_N_bit_up_Counter.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Q3.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="TDM"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../Constraints_basys3.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

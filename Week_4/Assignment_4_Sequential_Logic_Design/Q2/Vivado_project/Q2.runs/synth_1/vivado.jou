@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Jul 23 18:28:42 2025
+# Process ID: 19232
+# Current directory: D:/Mina/Digtal Design Diploma/Session_4/Assignment_4/Q2/Q2/Q2.runs/synth_1
+# Command line: vivado.exe -log DSP48A1_S.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DSP48A1_S.tcl
+# Log file: D:/Mina/Digtal Design Diploma/Session_4/Assignment_4/Q2/Q2/Q2.runs/synth_1/DSP48A1_S.vds
+# Journal file: D:/Mina/Digtal Design Diploma/Session_4/Assignment_4/Q2/Q2/Q2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source DSP48A1_S.tcl -notrace

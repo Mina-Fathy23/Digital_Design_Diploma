@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Jul 23 16:00:47 2025
+# Process ID: 17376
+# Current directory: D:/Mina/Digtal Design Diploma/Session_4/Assignment_4/Q3.v/Q3/Q3.runs/impl_1
+# Command line: vivado.exe -log TDM.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source TDM.tcl -notrace
+# Log file: D:/Mina/Digtal Design Diploma/Session_4/Assignment_4/Q3.v/Q3/Q3.runs/impl_1/TDM.vdi
+# Journal file: D:/Mina/Digtal Design Diploma/Session_4/Assignment_4/Q3.v/Q3/Q3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source TDM.tcl -notrace

@@ -1,0 +1,79 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Jul 26 13:22:44 2025
+# Process ID: 7516
+# Current directory: D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Vivado_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5508 D:\Mina\Digtal Design Diploma\Digital_Design_Diploma_Github_REPO\Week_4\Assignment_4_Sequential_Logic_Design\Q1\Vivado_Project\Q1.xpr
+# Log file: D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Vivado_Project/vivado.log
+# Journal file: D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Vivado_Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Vivado_Project/Q1.xpr}
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Vivado_Project'
+INFO: [Project 1-313] Project file moved from 'D:/Mina/Digtal Design Diploma/Session_4/Assignment_4/Q1/Q1' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Mina/Program_Files/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:08 . Memory (MB): peak = 857.230 ; gain = 143.305
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
+Command: synth_design -rtl -name rtl_1
+Starting synth_design
+Using part: xc7a35ticpg236-1L
+Top: ALSU
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:04 . Memory (MB): peak = 1005.309 ; gain = 92.242
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'ALSU' [D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Q1.v:1]
+	Parameter INPUT_PRIORITY bound to: A - type: string 
+	Parameter FULL_ADDER bound to: ON - type: string 
+INFO: [Synth 8-6157] synthesizing module 'D_FF' [D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Q1_D_FF.v:1]
+	Parameter WIDTH bound to: 3 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'D_FF' (1#1) [D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Q1_D_FF.v:1]
+INFO: [Synth 8-6157] synthesizing module 'D_FF__parameterized0' [D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Q1_D_FF.v:1]
+	Parameter WIDTH bound to: 1 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'D_FF__parameterized0' (1#1) [D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Q1_D_FF.v:1]
+INFO: [Synth 8-6155] done synthesizing module 'ALSU' (2#1) [D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Q1.v:1]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1005.309 ; gain = 92.242
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1005.309 ; gain = 92.242
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1005.309 ; gain = 92.242
+---------------------------------------------------------------------------------
+INFO: [Device 21-403] Loading part xc7a35ticpg236-1L
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Constraints_basys3.xdc]
+Finished Parsing XDC File [D:/Mina/Digtal Design Diploma/Digital_Design_Diploma_Github_REPO/Week_4/Assignment_4_Sequential_Logic_Design/Q1/Constraints_basys3.xdc]
+Completed Processing XDC Constraints
+
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+RTL Elaboration Complete:  : Time (s): cpu = 00:00:51 ; elapsed = 00:00:46 . Memory (MB): peak = 1373.551 ; gain = 460.484
+10 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:51 ; elapsed = 00:00:47 . Memory (MB): peak = 1373.551 ; gain = 460.484
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Jul 26 13:24:13 2025...
