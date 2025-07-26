@@ -15,23 +15,22 @@ Welcome to the official repository for the **6-week diploma** on **Digital Desig
 - Implementation and verification of key combinational circuits with testbenches.
 - Introduction to Sequential design basics using Verilog 
 
-### 🔁 Week 3: Sequential Logic & FSMs
+### 🔁 Week 3: Sequential Logic & Static Checks
 - Implementation of Sequential design basics using Verilog (flip-flops, counters, shift-registers, etc.).
-- Implementation and verification of key sequential circuits with testbenches and QuestaLint.
-
-### 💾 Week 4: Memory & Communication Concepts
-- FSM design (Moore/Mealy) and modeling in Verilog.
-- Memory types, modeling in Verilog, and implementation.
-- Overview of communication protocols and their foundational concepts.
-
-### 🧪 Week 5: Simulation, Synthesis & Static Checks
-- Verilog synthesis constructs, Static Timing Analysis, pipelining.
 - Simulation automation using Tcl (QuestaSim), linting, CDC techniques, and formal verification.
 
-### 🔧 Week 6: FPGA Flow with Vivado & Project Work
+### 🧪 Week 4: Simulation, Synthesis & FPGA Flow with Vivado
+- Verilog synthesis constructs, Static Timing Analysis, pipelining.
 - Vivado design flow using the Basys 3 board.
 - IP core integration, constraints, low-power design strategies, and prototyping challenges.
+  
+### 💾 Week 5: Memory & Communication Concepts
+- FSM design (Moore/Mealy) and modeling in Verilog.
+- Memory types, modeling in Verilog, and implementation.
+
+### 🔧 Week 6:  Project Work
 - Final course projects demonstrating full digital design flow.
+- Overview of communication protocols and their foundational concepts.
 
 ---
 
