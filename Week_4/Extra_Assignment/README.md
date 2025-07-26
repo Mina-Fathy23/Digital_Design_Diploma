@@ -34,6 +34,11 @@
 - Sequence validation
 - Coverage of full 15-state cycle
 
+#### Schematic:
+
+![LFSR Schematic](https://github.com/Mina-
+Fathy23/Digital_Design_Diploma/blob/fd9c786db3689798bf7beb43f1b9705367237bb7/Week_4/Extra_Assignment/Schematic_1.jpg)
+
 ---
 
 ## Section 2: Parameterized Adder Unit
