@@ -71,6 +71,9 @@ Parameterized DSP block supporting ADD/SUBTRACT operations with pipeline stages.
 - Waveform analysis of intermediate stages
 - Xilinx xc7a200tffg1156-3 FPGA target
 
+![DSP48A1_S Schematic](https://github.com/Mina-Fathy23/Digital_Design_Diploma/blob/58e0bd38487ecae3f8bc698dd10276cb6fa70fee/Week_4/Assignment_4_Sequential_Logic_Design/Q2/Schematic.jpg)
+
+
 ---
 
 ## Section 3: Time Division Multiplexer
