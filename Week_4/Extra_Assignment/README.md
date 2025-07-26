@@ -36,8 +36,7 @@
 
 #### Schematic:
 
-![LFSR Schematic](https://github.com/Mina-
-Fathy23/Digital_Design_Diploma/blob/fd9c786db3689798bf7beb43f1b9705367237bb7/Week_4/Extra_Assignment/Schematic_1.jpg)
+![LFSR Schematic](https://github.com/Mina-Fathy23/Digital_Design_Diploma/blob/0f3ed7228ea0397bc6ecc8d76b56e5672921c0ea/Week_4/Extra_Assignment/Schematic_1.jpg)
 
 ---
 
