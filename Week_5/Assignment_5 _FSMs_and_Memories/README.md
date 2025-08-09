@@ -12,6 +12,11 @@ FSM-based control unit for autonomous vehicles with acceleration and door lock m
 
 ---
 
+#### FSM Design Model:
+![Q1_FSM](https://github.com/Mina-Fathy23/Digital_Design_Diploma/blob/11ea9e47bc0fbdb5037e57ef175a694b68d4df69/Week_5/Assignment_5%20_FSMs_and_Memories/Q1_FSM.jpg).
+
+---
+
 ### ⚙️ Specifications
 
 #### Input Ports:
@@ -52,6 +57,11 @@ Sequential counter with Gray code output to minimize switching transitions.
 
 ---
 
+#### FSM Design Model:
+![Q2_FSM](https://github.com/Mina-Fathy23/Digital_Design_Diploma/blob/11ea9e47bc0fbdb5037e57ef175a694b68d4df69/Week_5/Assignment_5%20_FSMs_and_Memories/Q2_FSM.jpg).
+
+---
+
 ### ⚙️ Specifications
 
 #### States:
@@ -82,6 +92,11 @@ Sequential counter with Gray code output to minimize switching transitions.
 ---
 
 Communication error detector with automatic retransmission request capability.
+
+---
+
+#### FSM Design Model:
+![Q3_FSM](https://github.com/Mina-Fathy23/Digital_Design_Diploma/blob/11ea9e47bc0fbdb5037e57ef175a694b68d4df69/Week_5/Assignment_5%20_FSMs_and_Memories/Q3_FSM.jpg).
 
 ---
 
