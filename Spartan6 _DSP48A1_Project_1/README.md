@@ -45,6 +45,11 @@ Configurable digital signal processing block for math-intensive applications in 
 
 ---
 
+#### Schematic:
+![DSP48A1_S Schematic](https://github.com/Mina-Fathy23/Digital_Design_Diploma/blob/5b22dfaaecea2f6491324de649ee930f279f8e45/Spartan6%20_DSP48A1_Project_1/DSP48A1_Schematic.jpg).
+
+---
+
 ### 🔢 OPMODE Configuration
 
 | Bits  | Function                      | Modes                             |
