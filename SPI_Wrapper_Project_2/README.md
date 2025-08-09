@@ -12,7 +12,7 @@ Configurable SPI slave interface with embedded RAM for data storage in FPGA appl
 ---
 
 
-#### Schematic:
+#### FSM Modle:
 ![SPI_Wrapper_FSM](https://github.com/Mina-Fathy23/Digital_Design_Diploma/blob/d54bd75e69a4d6600e60ddfa9fc32b470d70fe58/SPI_Wrapper_Project_2/SPI_Wrapper_FSM.jpg).
 
 
