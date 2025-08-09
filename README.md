@@ -23,12 +23,16 @@ Welcome to the official repository for the **6-week diploma** on **Digital Desig
 - Verilog synthesis constructs, Static Timing Analysis, pipelining.
 - Vivado design flow using the Basys 3 board.
 - IP core integration, constraints, low-power design strategies, and prototyping challenges.
+- Individual Design DSP48A1 slice of the spartan6 FPGAs project.
   
 ### 💾 Week 5: Memory & Communication Concepts
 - FSM design (Moore/Mealy) and modeling in Verilog.
 - Memory types, modeling in Verilog, and implementation.
 
-### 🔧 Week 6:  Project Work
+### 🔧 Week 6:  Domain Crossing & Final Project
+- Clock Domain Crossing, CDC solutions, and CDC checks on QuestaCRC.
+- Reset Domain Crossing, RDC solutions, and RDC checks on QuestaRDC.
+- Power & Voltage Domain Crossing, and solutions.
 - Final course projects demonstrating full digital design flow.
 - Overview of communication protocols and their foundational concepts.
 
@@ -40,7 +44,9 @@ Welcome to the official repository for the **6-week diploma** on **Digital Desig
 - **Xilinx Vivado** (for synthesis, implementation, bitstream generation)
 - **Digilent Basys 3 FPGA Board** (Artix-7 based)
 - **Siemens QuestaSim** (for simulation)
-- **Siemens QuestaFormal** (for formal checks)
+- **Siemens QuestaLint** (for Design checks)
+- **Siemens QuestaCDC** (for CDC checks)
+- **Siemens QuestaRDC** (for RDC checks)
 - **Tcl Scripting** (for simulation automation)
 
 ---
